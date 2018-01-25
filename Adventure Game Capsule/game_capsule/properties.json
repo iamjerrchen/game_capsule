@@ -1,0 +1,8 @@
+{
+	"game_name" : "OSRS",
+	"start_event" : "Lumbridge",
+	"combat" : 1,
+	"item" : 0,
+	"environment" : 0,
+	"chance" : 0
+}
